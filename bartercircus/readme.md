@@ -9,7 +9,7 @@
 
 **netlify website**
 
-## List of Dependencies
+## List of Dependencie
 
 - React
 - React Router
